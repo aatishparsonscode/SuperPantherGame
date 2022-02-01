@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 class Game
 {
-    //basic starters
+    //basic starters --
     public static readonly string Title = "Minimalist Game Framework";
     public static readonly Vector2 Resolution = new Vector2(975, 600);
     float pantherFrameIndex = 0;
